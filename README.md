@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm HyunWoo
 
-- 👊 I'm interested in BigData, DataScience
-- 🧠 I’m currently learning Python, R, GIT, ML/DL ...
+- 👊 I'm interested in BigData, WEB
+- 🧠 I’m currently learning Python, Java, ML/DL, Django, Spring ...
 
 <!--
 **hyunwoogo/hyunwoogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
